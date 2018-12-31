@@ -1,2 +1,5 @@
 # hello-world
-Just a test repository
+
+Hi, strange friends.
+
+I'm Loydo. I like songs, wonderful draws and everything amazing.
